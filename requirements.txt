@@ -1,4 +1,4 @@
 flask
 gunicorn
 flask-sqlalachemy
-psycoge2-binary
+psycopg2-binary
